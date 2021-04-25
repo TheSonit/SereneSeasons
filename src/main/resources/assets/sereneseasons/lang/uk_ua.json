@@ -1,0 +1,25 @@
+{
+  "commands.sereneseasons.usage": "/sereneseasons <getseason/setseason> [args]",
+  "commands.sereneseasons.getseason.success": "Поточний сезон %s, день %s/%s, тік %s/%s",
+  "commands.sereneseasons.setseason.success": "Сезон встановлено на %s",
+  "commands.sereneseasons.setseason.fail": "Неправильний сезон %s",
+  "commands.sereneseasons.setseason.disabled": "Сезони зраз вимкнені!",
+
+  "itemGroup.tabSereneSeasons": "Serene Seasons",
+
+  "block.sereneseasons.greenhouse_glass": "Тепличне скло",
+  "block.sereneseasons.season_sensor_spring": "Датчик сезону",
+  "block.sereneseasons.season_sensor_summer": "Датчик сезону",
+  "block.sereneseasons.season_sensor_autumn": "Датчик сезону",
+  "block.sereneseasons.season_sensor_winter": "Датчик сезону",
+  "item.sereneseasons.ss_icon": "SS іконка",
+
+  "item.sereneseasons.season_clock": "Календар",
+
+  "desc.sereneseasons.fertile_seasons": "Плодоносні сезони",
+  "desc.sereneseasons.year_round": "Весь рік",
+  "desc.sereneseasons.spring": "Весна",
+  "desc.sereneseasons.summer": "Літо",
+  "desc.sereneseasons.autumn": "Осінь",
+  "desc.sereneseasons.winter": "Зима"
+}
